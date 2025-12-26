@@ -1,2 +1,2 @@
-# UFO-timelines-by-year
+# UFO-timeline-by-year
 A timeline of UFOs/UAPs by year, starting 1928.
