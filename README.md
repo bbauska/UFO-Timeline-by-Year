@@ -1,5 +1,5 @@
-# UFO-timeline-by-year
-A timeline of UFOs/UAPs by year, starting 1928.
+# UFO-Timeline-by-Year
+A Timeline of UFOs/UAPs by year, starting 1928.
 
 # Scroll Timeline (jQuery)
 
